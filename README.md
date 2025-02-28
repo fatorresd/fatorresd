@@ -34,7 +34,8 @@ Software Engineer passionate about technology, geek culture, cycling 🚴‍♂�
 
 ### 📊 **GitHub Stats**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatorresd&show_icons=true&theme=radical&hide_rank=true)
+![My GitHub Stats](https://github-readme-stats-fatorresd.vercel.app/api?username=fatorresd&show_icons=true&theme=radical&hide_rank=true)
+
 
 ---
 
